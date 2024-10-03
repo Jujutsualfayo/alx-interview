@@ -5,7 +5,7 @@
 
 
 def pascal_triangle(n):
-    """This file will create a function def pascal_triangle(n): that returns a list of lists
+    """Create a function def pascal_triangle(n): that returns a list of lists
     of integers representing the Pascal’s triangle of n
     """
     res = []
